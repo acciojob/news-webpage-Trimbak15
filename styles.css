@@ -1,1 +1,62 @@
 /*  your css code here. If applicable */
+body {
+    background-color: #f5f5f5;
+}
+
+header {
+    color: white;
+    background-color: #011e29;
+    text-align: center;
+    padding: 20px
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.article {
+    background-color: white;
+    width: 100vh;
+    height: 150px;
+    border-radius: 30px;
+    text-align: center;
+    margin: 20px;
+}
+
+.main {
+    background-color: white;
+    width: 100vh;
+    height: 250px;
+    border-radius: 30px;
+    margin: 20px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.img {
+    background-color: white;
+    width: 100vh;
+    height: 700px;
+    text-align: center;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+.img1 {
+    width: 350px;
+    height: 200px;
+}
+
+.img2 {
+    width: 350px;
+    height: 200px;
+}
+
+.img3 {
+    width: 350px;
+    height: 200px;
+}
