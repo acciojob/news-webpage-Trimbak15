@@ -14,7 +14,7 @@ header {
     grid-template-columns: 1fr 3fr 1fr;
 }
 
-.item1 {
+.latest-news-section {
     background-color: white;
     border-radius: 30px;
     height: 200px;
@@ -30,7 +30,7 @@ header {
     padding: 20px;
 }
 
-.item3 {
+.pictorial-news-section {
     background-color: white;
     border-radius: 30px;
     height: 550px;
@@ -43,7 +43,7 @@ header {
     margin-left: 50px;
 }
 
-h2 {
+h3 {
     text-align: center;
 }
 
