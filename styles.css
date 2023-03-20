@@ -34,14 +34,15 @@ header {
     background-color: white;
     border-radius: 30px;
     height: 550px;
+	text-align: center;
+	padding: 20px;
 }
 
 .small-img {
     width: 200px;
     height: 130px;
     margin-bottom: 20px;
-    text-align: center;
-	padding:20px;
+    
 }
 
 h2 {
